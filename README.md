@@ -2,7 +2,7 @@
 
 #### Init project
 
-    php bin/console composer:install
+    composer install
     php bin/console doctrine:database:create
 
 #### Run server 
